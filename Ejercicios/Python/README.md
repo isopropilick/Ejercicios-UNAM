@@ -1,5 +1,5 @@
 # Python
-Los ejerciocios descritos en este apartado estaan planteados y resueltos usando Python 3, considerese eso para la syntaxis.
+Los ejerciocios descritos en este apartado estan planteados y resueltos usando Python 3, considerese eso para la syntaxis.
 #### Descripcion de los niveles
 -------
 | Nivel        | Rol           | Descripcion  |
@@ -15,9 +15,9 @@ Los ejerciocios descritos en este apartado estaan planteados y resueltos usando 
   2.
 
 - Nivel  2
- 1. Ejercicio 1 `Disociacion de listas`
- 2.
+  1. Ejercicio 1 `Disociacion de listas`
+  2.
 
 - Nivel 3
- 1. Ejercicio 1 `Plano cartesiano`
- 2.
+  1. Ejercicio 1 `Plano cartesiano`
+  2.
