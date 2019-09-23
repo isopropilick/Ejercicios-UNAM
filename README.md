@@ -3,18 +3,16 @@ Este repositorio esta diseñado para contener ejercicios de practica de programa
 
 Lenguajes incluidos:
 
- - RUBY `(en curso)`
+ - RUBY `(en espera...)`
  - Python `(en curso)`
- - C++ `(en curso)`
- - PHP `(en curso)`
- - HTML `(en curso)`
- - Java `(en curso)`
- - JavaScript `(en curso)`
- - BASH `(en curso)`
- - MySQL `(en curso)`
- 
+ - C++ `(en espera...)`
+ - PHP `(en espera...)`
+ - HTML `(en espera...)`
+ - Java `(en espera...)`
+ - JavaScript `(en espera...)`
+ - BASH `(en espera...)`
+ - MySQL `(en espera...)`
+
  Conforme se visualizen mas areas de oportunidad se agregaran mas, sin embargo como son los lenguajes que domino y en los que tengo ejercicios y snippets de momento estan contemplados estos.
 
 > Nel, es harina....
-
-
